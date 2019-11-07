@@ -2,7 +2,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 
 
-# llogpy 
+# TextSummarizer 
 
 #### What is TextSummarizer ?
 * Automatic text summarization  takes a string and it will summarize that text for you 
