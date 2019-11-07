@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+textsummarizer/textsummarizer.py
+textsummarizer.egg-info/PKG-INFO
+textsummarizer.egg-info/SOURCES.txt
+textsummarizer.egg-info/dependency_links.txt
+textsummarizer.egg-info/top_level.txt
