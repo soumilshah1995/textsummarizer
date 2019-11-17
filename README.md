@@ -4,6 +4,9 @@
 
 # TextSummarizer 
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/soumilshah1995)
+
+
 #### What is TextSummarizer ?
 * Automatic text summarization  takes a string and it will summarize that text for you 
 * this package is developed using bs4 and requests 
